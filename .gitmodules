@@ -1,3 +1,6 @@
 [submodule "html5games"]
 	path = html5games
 	url = https://github.com/mintuhouse/HTML5Games.git
+[submodule "finman"]
+	path = finman
+	url = https://github.com/mintuhouse/FinMan.git
