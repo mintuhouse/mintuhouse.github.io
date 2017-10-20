@@ -1,0 +1,3 @@
+[submodule "html5games"]
+	path = html5games
+	url = https://github.com/mintuhouse/HTML5Games.git
